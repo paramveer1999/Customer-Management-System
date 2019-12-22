@@ -16,4 +16,23 @@
 
    ### HomePage:
    ![](https://github.com/paramveer1999/Customer-Management-System/blob/master/Images/homepage.png)
+   
+   ### Add Customer:
+   ![](https://github.com/paramveer1999/Customer-Management-System/blob/master/Images/addingcustomer.png)
+   
+   ### Warning for Email :
+   ![](https://github.com/paramveer1999/Customer-Management-System/blob/master/Images/warningemail.png)
+   
+   
+   ### Searching record's using various attributes :
+   ![](https://github.com/paramveer1999/Customer-Management-System/blob/master/Images/searchingcustomer.png)
+   
+   ### View all record's :
+   ![](https://github.com/paramveer1999/Customer-Management-System/blob/master/Images/showrecords.png)
+   
+   
+
+
+
+
 
