@@ -15,5 +15,5 @@
 ##  Screenshots:-
 
    ### HomePage:
-            ![](https://github.com/paramveer1999/Customer-Management-System/blob/master/Images/homepage.png)
+   ![](https://github.com/paramveer1999/Customer-Management-System/blob/master/Images/homepage.png)
 
