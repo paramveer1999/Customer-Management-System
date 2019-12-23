@@ -10,7 +10,7 @@
             5.Seperate window to show record's of customer.
             6.Various Checks on each field
             
-            
+## NOTE->Reset button will erase all the contents from each ***TEXT FIELD***.       
             
 ##  Screenshots:-
 
